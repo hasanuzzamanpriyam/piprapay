@@ -242,8 +242,11 @@ aa021689e729dc2302b47e9bdc7d1a9f8b72f95f01530da35bf3b848b188d5b1
     $piprapay_favicon= 'https://piprapay.com/assets/images/favicon.png';
     $piprapay_logo_light = 'https://cdn.piprapay.com/media/logo.png';
 
-    $directory = (pp_site_url('fulldomain') == 'http://localhost') ? 'piprapay-panel/' : '';
-    $site_url = pp_site_url('fulldomain').'/'.$directory;
+    $basePath = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME']));
+    if ($basePath === '/') {
+        $basePath = '';
+    }
+    $site_url = pp_site_url('fulldomain') . $basePath . '/';
 
     if(isset($_GET['logout'])){
         logoutCookie();
