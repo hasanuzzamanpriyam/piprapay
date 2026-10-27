@@ -1,5 +1,26 @@
 # [PipraPay](https://piprapay.com) — Payment Automation Platform
 
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://piprapay.com/assets/logo-light.png">
+        <img src="https://piprapay.com/assets/logo-light.png" alt="PipraPay" width="200">
+    </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PipraPay/PipraPay/releases">
+    <img src="https://img.shields.io/github/v/release/piprapay/piprapay?include_prereleases&style=for-the-badge" alt="Latest Release">
+  </a>
+
+  <a href="https://www.facebook.com/groups/piprapay">
+    <img src="https://img.shields.io/badge/Facebook%20Group-1.3K%20Members-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Group">
+  </a>
+
+  <a href="https://github.com/PipraPay/PipraPay/tree/main">
+    <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20.svg?style=for-the-badge&logo=laravel" alt="CI Status">
+  </a>
+</p>
+
 PipraPay is a self-hosted, open-source payment automation platform by QubePlug.  
 Deploy it on your own server, customize your workflow, install plugins and themes, and stay fully in control — with no monthly fees.  
 Visit https://piprapay.com/ for more information.
@@ -15,14 +36,14 @@ Official Open-Source Repository:
 
 ## 📖 Documentation
 
-- Developer guides live in `docs/`:
-  - Payment Gateway Plugins: [docs/Payment-Gateway-Plugins-Developer-Guide.md](docs/Payment-Gateway-Plugins-Developer-Guide.md)
+- Developer guides live in `docs/`:  
+  - Payment Gateway Plugins: [docs/Payment-Gateway-Plugins-Developer-Guide.md](docs/Payment-Gateway-Plugins-Developer-Guide.md)  
   - Module Plugins: [docs/PipraPay-Module-Plugin-Developer-Guide.md](docs/PipraPay-Module-Plugin-Developer-Guide.md)
 
-- PipraPay Plugins & Integrations Directory
+- PipraPay Plugins & Integrations Directory  
   - Plugin Directory: [docs/Plugin-Directory.md](docs/Plugin-Directory.md)
 
-- Browse all docs: [[docs/](https://piprapay.readme.io/)]([docs/](https://piprapay.readme.io/))
+- Browse all docs: [[docs/](https://piprapay.readme.io/)]([docs/](https://piprapay.readme.io/))  
 - API docs: https://piprapay.readme.io
 - Explore PipraPay Demo: https://demo.piprapay.com/admin/login  
   - username: `demo`  
