@@ -3,10 +3,10 @@
 The PipraPay name, logo, and overall brand identity are trademarks of QubePlug.
 
 ## What you CAN do
-- Use the PipraPay software under the AGPL v3 license.
+- Use the PipraPay software.
 - Run it on your own servers for personal or business purposes.
 - Contribute improvements or fixes back to the project.
-- Share your modified version, as long as it is still under AGPL v3 **and keeps PipraPay branding**.
+- Share your modified version, as long as it keeps PipraPay branding.
 
 ## What you CANNOT do
 - You may NOT remove or change the PipraPay name, logo, or branding.

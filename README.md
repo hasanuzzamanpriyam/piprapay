@@ -60,13 +60,6 @@ Official Open-Source Repository:
 
 ---
 
-## 📚 License & Brand Protection
-
-- Licensed under **GNU Affero General Public License v3.0 (AGPL-3.0)**  
-- See [LICENSE](LICENSE)
-
----
-
 ## 🛡️ Trademark Policy
 
 The PipraPay name, logo, and brand identity are trademarks of QubePlug.
