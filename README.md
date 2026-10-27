@@ -80,22 +80,6 @@ Official Open-Source Repository:
 5. Access the admin panel and install plugins  
 
 ---
-
-## 🛡️ Trademark Policy
-
-The PipraPay name, logo, and brand identity are trademarks of QubePlug.
-
-### ✅ Allowed
-- Use PipraPay with original branding  
-- Develop plugins, modules, and themes  
-- Contribute improvements  
-
-### ❌ Not Allowed
-- Rebranding the system as another product  
-- Removing PipraPay branding and presenting as your own  
-
----
-
 ## 🤝 Contributing
 
 We welcome community contributions:
